@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is cherry-pick"
+echo "This is cherry-huick"
